@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 
-  // fonksiyon tanımlıyoruz
+  
   const App = () => {
     const [write, setWrite] = useState("");
    
